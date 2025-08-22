@@ -1,0 +1,5 @@
+{
+  "name": "Fake Notification Generator",
+  "description": "Create realistic-looking fake social media and app notifications. Customize templates, text, logos, and backgrounds, then export the final image.",
+  "requestFramePermissions": []
+}
